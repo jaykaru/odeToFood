@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkeRi5iv9Hb50gYQmdw8HIARKoDZXo0Qh5Fwb6zPRD5PBdAkGXGGWAM9p0W+Npjb1LdAFkdbAVsFdHP9luJ8pA==",
+  "success": true,
+  "projectFilePath": "/Users/KJeyamohaan/Desktop/ASP.Net/PluralsightProject/odeToFood/odeToFood.csproj",
+  "expectedPackageFiles": [
+    "/Users/KJeyamohaan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
